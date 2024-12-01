@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/taskdigitalbond/',
+  basePath: '/tstdb/',
   entryPoints: new Map([['', () => import('./main.server.mjs')]]),
 };
   
